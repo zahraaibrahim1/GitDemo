@@ -20,5 +20,9 @@ public class print2DIntArrayExample {
 public void triangleArrayTest(){
     
 }
+    @Test
+    public void rectangleArrayTest(){
+
+    }
 }
 
