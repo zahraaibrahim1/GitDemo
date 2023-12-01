@@ -17,6 +17,8 @@ public class simpleCollectionExample {
         }
         assertEquals("zero", numbers0123.get(0));
         assertEquals("three", numbers0123.get(3));
+        System.out.println("GitTest1");
+        System.out.println("GitTest2");
     }
     
 }
