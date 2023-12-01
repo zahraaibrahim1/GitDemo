@@ -24,6 +24,6 @@ public class SortArrayAndAssert {
         assertEquals(workdays[1], "monday");
         System.out.println("friday");
         System.out.println("monday");
-
+        System.out.println("Tuesday");
     }
 }

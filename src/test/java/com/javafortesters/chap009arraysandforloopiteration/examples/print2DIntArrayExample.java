@@ -24,5 +24,9 @@ public void triangleArrayTest(){
     public void rectangleArrayTest(){
 
     }
+    @Test
+    public void circleArrayTest(){
+
+    }
 }
 

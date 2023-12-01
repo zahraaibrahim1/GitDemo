@@ -26,6 +26,7 @@ public class HundredUserArray {
             assertEquals("user" + userId, aUser.getUsername());
             assertEquals("password" + userId, aUser.getPassword());
             userId++;
+            System.out.println("user");
         }
     }
 }
